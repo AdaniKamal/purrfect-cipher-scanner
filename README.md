@@ -6,7 +6,7 @@ This script is too check on weak ciphers
 |No|Features|
 |--|--------|
 |1|This scanner will do the nmap scan.<br><b>Command:</b> `nmap --script ssl-enum-ciphers -p <port> <IP>`<br><br>If the scanner doesnt found any "ciphers", then it will try to telnet. <br><br><b>Telnet</b><br>- $${\color{green}Port \space open}$$<br>- $${\color{red}Port \space closed}$$<br><br>If `Port closed` it will try to ping. Check either the host is reachable or not.|
-|2||
+|2|Check cipher suites security|
 |3||
 
 ## Result
