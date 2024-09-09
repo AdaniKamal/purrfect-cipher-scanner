@@ -1,6 +1,9 @@
 # purrfect-cipher-scanner
 This script is too check on weak ciphers
 
+## Usage
+python cipher-scanner.py hosts.txt
+
 ## Features
 
 |No|Features|
